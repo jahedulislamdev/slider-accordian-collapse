@@ -1,2 +1,2 @@
 # slider
-This project uses only html & bootsrtap4.
+This project uses only html & bootstrap4.
